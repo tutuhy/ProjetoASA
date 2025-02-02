@@ -1,4 +1,4 @@
-# Projeto de Administração de Sistemas Abertos
+# Projeto de ASA
 
 ## Integrantes do Grupo
 - **José Rodrigo Sousa Padilha** - 20231380017  
